@@ -1,2 +1,2 @@
 # First project
-a student for computer science
+a student of computer science
